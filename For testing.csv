@@ -1,0 +1,124 @@
+Number;Class;Subject;Following;Meaning;Inferentive;Mirativity;Observed;Negation;Result;Possible
+1;<ES P, P>;1;No;Experiential;No;No;Unspecified;No;N/A;Yes
+2;<ES P, P>;3 alive;No;Resultative;Unspecified;No;Unspecified;No;Existent;Yes
+3;<ES, ->;3 dead;No;Perfective;Unspecified;No;Unspecified;No;Existent;Yes
+4;<S, S>;2;No;Experiential;No;No;Unobserved;No;N/A;Yes
+5;<ES P, P>;2;No;Perfective;No;No;Unobserved;No;Unspecified;Yes
+6;<S, S>;1;No;Experiential;No;No;Observed;No;N/A;Yes
+7;<P, P>;1;No;Experiential;No;No;Observed;No;N/A;Yes
+8;<P, P>, (?), <Q MP, MP>, (?), (?), <ES, ->;1;Present Perfect;Narrative progression;No;No;Observed;No;N/A;No
+9;<P, P>, (?), <Q MP, MP>, (?), (?), <ES, ->;1;Present Perfect;Narrative progression;No;No;Observed;No;N/A;No
+10;<P, P>, (?), <Q MP, MP>, (?), (?), <ES, ->;1;Present Perfect;Narrative progression;No;No;Observed;No;N/A;No
+11;<ES, ->;3 non-human;No;Perfective;No;No;Observed;No;Unspecified;No
+12;<ES, ->;3 non-human;No;Perfective;No;No;Observed;No;Unspecified;No
+13;<P, P>;3 non-human;No;Perfective;Yes;No;Unobserved;No;Existent;Yes
+14;<S, S>;1;No;Experiential;No;No;Observed;No;N/A;Yes
+15;<ES, ->;1;No;Perfective;No;No;Observed;No;Existent;No
+16;<S, S>;1;No;Perfective;Yes;No;Unobserved;Yes;Atelic verb;Yes
+17;<ES, ->;3 dead;No;Perfective;No;No;Unobserved;No;Nonexistent;No
+18;<ES P, P>;3 dead;No;Perfective;No;No;Unobserved;No;Existent;Yes
+19;<ES, ->;3 alive;No;Perfective;Yes;No;Unobserved;No;Existent;Yes
+20;<ES, ->;3 alive;No;Pure resultative;Unspecified;No;Unspecified;No;Existent;Yes
+21;<ES, -> ;3 alive;No;Pure resultative;Unspecified;No;Unspecified;Yes;Existent;Yes
+22;<ES, ->;3 alive;No;Perfective;Yes;Yes;Unobserved;No;Existent;Yes
+23;<ES, ->;3 alive;No;Perfective;No;No;Observed;No;Existent;No
+24;-;2;No;Experiential;No;No;Unobserved;No;N/A;Yes
+25;(?);1;No;Experiential;No;No;Observed;No;N/A;Yes
+26;<S, S>;1;No;Experiential;No;No;Observed;No;N/A;Yes
+27;(?);1;Nonpast;Experiential;No;No;Observed;No;N/A;Yes
+28;<ES P, P>;2;No;Perfective;Yes;No;Unobserved;No;Nonexistent;No
+29;<ES P, P>;1;No;Perfective;No;No;Observed;No;Nonexistent;No
+30;<ES P, P>;1;No;Perfective;No;No;Observed;Yes;Nonexistent;No
+31;<ES P, P>;1;No;Perfective;No;No;Observed;No;Existent;No
+32;<ES, -> ;3 alive;Nonpast;Perfective;Unspecified;No;Unspecified;No;Existent;Yes
+33;<ES P, P>;1;No;Resultative;No;No;Observed;No;Existent;Yes
+34;<ES P, P>;1;No;Resultative;No;No;Observed;No;Existent;Yes
+35;<ES, -> ;1;No;Resultative;No;No;Observed;No;Existent;Yes
+36;<ES, P>;1;Nonpast;Perfective;No;No;Observed;No;Existent;No
+37;<S, S>;1;No;Perfective;No;No;Observed;Yes;Existent;Yes
+38;<S, S>;1;No;Continuous;No;No;Observed;No;N/A;%
+39;<S, S>;1;Nonpast;Delimited continuous;No;No;Observed;No;N/A;Yes
+40;<S, S>;1;Nonpast;Delimited continuous;No;No;Observed;No;N/A;Yes
+41;<S, S>;1;Preterite;Delimited continuous;No;No;Observed;No;N/A;%
+42;<S, S>;3 alive;No;Perfective;Unspecified;No;Unobserved;No;Atelic verb;Yes
+43;<ES, -> ;3 alive;No;Perfective;No;Yes;Observed;No;Existent;No
+44;<ES, -> ;3 alive;No;Perfective;No;Yes;Observed;No;Existent;No
+45;<ES P, P>;3 non-human;No;Perfective;No;Yes;Observed;No;Existent;No
+46;<ES P, P>;3 non-human;No;Perfective;Yes;Yes;Unobserved;No;Existent;Yes
+47;<ES, -> ;3 alive;No;Perfective;No;Yes;Unobserved;No;Existent;%
+48;<ES, -> ;3 alive;No;Perfective;No;No;Unobserved;No;Existent;%
+49;<ES P, P>;3 alive;No;Perfective;Unspecified;No;Unobserved;No;Existent;No
+50;<ES, ->;3 alive;No;Perfective;Yes;No;Unobserved;No;Existent;No
+51;(?);3 alive;No;Perfective;No;No;Unobserved;No;Unspecified;No
+52;(?);3 alive;No;Experiential;Unspecified;No;Unspecified;No;N/A;Yes
+53;<ES P, P>;3 unspecified;No;Perfective;Unspecified;No;Unspecified;No;Existent;Yes
+54;<ES P, P>;3 unspecified;No;Perfective;Unspecified;No;Unspecified;No;Nonexistent;No
+55;<S, S>;3 alive;No;Perfective;Unspecified;No;Unspecified;No;Atelic verb;No
+56;<ES, ->;3 alive;No;Perfective;Yes;No;Unobserved;No;Existent;No
+57;<P, P>;3 alive;No;Perfective;Yes;No;Unobserved;No;Atelic verb;No
+58;(?);3 alive;No;Habitual;Unspecified;No;Unspecified;No;N/A;No
+59;<P, P>;3 non-human;Preterite;Delimited continuous;Unspecified;No;Unspecified;No;Atelic verb;Yes
+60;<ES, ->;3 alive;No;Habitual;Unspecified;No;Unspecified;No;N/A;No
+61;<ES, ->;3 non-human;No;Perfective;Yes;No;Unobserved;No;Existent;Yes
+62;<ES P, P>;1;No;Continuous;No;No;Observed;No;N/A;No
+63;<ES P, P>;1;No;Resultative;No;No;Observed;No;Existent;Yes
+64;<ES P, P>;1;No;Pure resultative;No;No;Observed;Yes;Existent;%
+65;<ES P, P>;1;No;Experiential;No;No;Observed;No;N/A;Yes
+66;<ES P, P>;1;No;Continuous;No;No;Observed;No;N/A;No
+67;<Q MP, MP>;3 non-human;No;Perfective;Unspecified;No;Unspecified;No;Unspecified;No
+68;<ES, P>;3 unspecified;No;Perfective;Unspecified;No;Unspecified;No;Existent;Yes
+69;<ES P, P>;3 dead;No;Habitual;Unspecified;No;Unspecified;No;N/A;No
+70;<ES P, P>;3 alive;No;Pure resultative;Unspecified;No;Unspecified;Yes;Existent;Yes
+71;<S, S>;1;No;Continuous;No;No;Observed;No;N/A;No
+72;<ES P, P>;1;No;Imperfective;No;No;Observed;No;Unspecified;No
+73;<ES P, P>;3 non-human;No;Pure resultative;Unspecified;No;Unspecified;No;Existent;Yes
+74;<ES P, P>, <ES, ->, <ES, ->;1;Preterite;Narrative progression;No;No;Observed;No;N/A;Yes
+75;<ES, ->;3 alive;No;Perfective;Unspecified;No;Unspecified;No;Existent;No
+76;<ES, ->;1;No;Perfective;No;No;Observed;No;Unspecified;No
+77;<ES, ->;1;No;Perfective;No;No;Observed;No;Unspecified;No
+78;<ES, ->;1;No;Perfective;No;No;Observed;No;Unspecified;No
+79;<P, P>, (?), <S, S>;1;Present Perfect;Narrative progression;No;No;Observed;No;N/A;No
+80;<ES P, P>, (?), <ES P, P> / <ES P, P>,  <ES, ->;1;Preterite;Narrative progression;No;No;Observed;No;N/A;Yes
+81;<ES, ->;3 dead;No;Perfective;No;No;Unobserved;No;Nonexistent;No
+82;<ES, ->;3 dead;No;Pure resultative;Unspecified;No;Unspecified;No;Existent;Yes
+83;(?);2;No;Perfective;No;No;Unobserved;No;Atelic verb;Yes
+84;<ES, ->, (?), (?), <EP, -> / <EP, -> / <ES, ->;3 alive;Present Perfect;Narrative progression;No;No;Unobserved;No;N/A;No
+85;<ES P, P>;3 alive;No;Perfective;No;No;Unobserved;No;Unspecified;Yes
+86;<S, S>;1;No;Experiential;No;No;Observed;No;N/A;Yes
+87;<ES P, P>;3 alive;No;Pure resultative;Yes;No;Unobserved;No;Existent;Yes
+88;<ES, ->;3 alive;Nonpast;Pure resultative;Unspecified;No;Unspecified;No;Existent;Yes
+89;<ES, -> ;2;No;Perfective;Unspecified;Yes;Unobserved;No;Existent;Yes
+90;<ES, -> ;1;Nonpast;Perfective;No;No;Observed;No;Explicitly cancelled;No
+91;<ES, ->;1;No;Perfective;No;No;Observed;No;Nonexistent;No
+92;<ES, -> ;3 alive;No;Perfective;No;No;Unobserved;No;Existent;%
+93;<P, P>;3 alive;No;Perfective;No;No;Unobserved;No;Atelic verb;%
+94;<P, P>, <S, S>, <P, P>, <S, S>;3 alive;Present Perfect;Narrative progression;No;No;Unspecified;No;N/A;No
+95;<ES, -> ;3 dead;No;Experiential;No;No;Unobserved;No;Nonexistent;Yes
+96;<ES P, P>;3 alive;No;Perfective;Unspecified;No;Unspecified;No;Unspecified;Yes
+97;<ES P, P>;1;No;Perfective;No;No;Observed;No;Unspecified;No
+98;<ES P, P>, (?), <ES P, P> / <ES P, P>,  <ES, ->;1;Present Perfect;Narrative progression;No;No;Observed;No;N/A;No
+99;<S, S>;3 alive;No;Continuous;Unspecified;No;Unspecified;No;N/A;No
+100;<ES P, P>;3 alive;No;Perfective;Yes;No;Unobserved;No;Existent;Yes
+101;<ES, ->;3 alive;No;Perfective;Unspecified;No;Unspecified;No;Existent;Yes
+102;<P, P>;3 alive;Preterite;Imperfective;Unspecified;No;Unspecified;No;N/A;No
+103;<P, P>;3 alive;No;Habitual;Unspecified;No;Unspecified;No;N/A;No
+104;<ES, ->;3 alive;No;Habitual;Unspecified;No;Unspecified;No;N/A;No
+105;<ES, -> ;3 alive;No;Perfective;No;No;Observed;No;Unspecified;No
+106;<ES, ->;3 alive;No;Perfective;No;No;Unobserved;No;Existent;%
+107;<ES, ->;3 alive;No;Perfective;Yes;No;Unobserved;No;Nonexistent;No
+108;<P, P>;3 alive;No;Perfective;Yes;No;Unobserved;No;Atelic verb;Yes
+109;<ES, ->;2;No;Experiential;No;No;Unobserved;No;N/A;Yes
+110;<ES, ->;1;No;Experiential;No;No;Observed;No;N/A;No
+111;<S, S>;3 dead;No;Experiential;No;No;Unobserved;No;N/A;Yes
+112;<ES P, P>;3 dead;No;Experiential;No;No;Unobserved;No;N/A;%
+113;<ES, ->;3 dead;No;Experiential;No;No;Observed;No;N/A;No
+114;<S, S>;3 alive;Nonpast;Experiential;No;No;Unspecified;No;N/A;Yes
+115;<ES P, P>;1;No;Experiential;No;No;Observed;No;N/A;Yes
+116;<ES, P>;3 alive;Nonpast;Perfective;Unspecified;No;Unspecified;No;Explicitly cancelled;Yes
+117;<ES P, P>;3 non-human;No;Continuous;Unspecified;No;Unspecified;No;N/A;No
+118;<S, S>;3 alive;No;Continuous;Unspecified;No;Unspecified;No;N/A;No
+119;<ES, P>;1;No;Perfective;No;No;Observed;No;Existent;No
+120;<P, P>;1;No;Perfective;No;No;Observed;No;Atelic verb;No
+121;<P, P>;3 alive;No;Perfective;Unspecified;No;Unspecified;No;Atelic verb;%
+122;<ES, ->;3 alive;No;Perfective;Unspecified;No;Unspecified;No;Unspecified;No
+123;<ES, ->;1;No;Perfective;Yes;No;Unobserved;No;Existent;Yes
