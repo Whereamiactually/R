@@ -1,0 +1,71 @@
+Number;Verb;Subject;Animacy;Control;Negation;Aspect;Prospective;Near;Form
+1;"<ES P; P>";3;animate;yes;no;perfective punctive;no;no;npst
+34;"<ES; ->";1;animate;yes;no;perfective punctive;no;yes;npst
+11;"<ES; ->";2;animate;no;no;perfective punctive;no;no;npst
+12;"<P; P>";1;animate;yes;yes;imperfective;no;no;npst
+12;"<P; P>";1;animate;yes;yes;imperfective;no;no;al'l'ke
+107;"<ES; ->";3;inanimate;no;no;perfective punctive;yes;yes;npst
+107;"<ES; ->";3;inanimate;no;no;perfective punctive;yes;yes;inch
+13;"<ES; P>";3;animate;yes;no;perfective punctive;no;no;npst
+17;"<ES P; P>";1;animate;yes;no;perfective punctive;no;no;npst
+20;"<ES; ->";1;animate;yes;no;perfective punctive;no;no;npst
+5;"<ES P; P>";1;animate;yes;no;imperfective;no;yes;al'l'ke
+5;"<ES P; P>";1;animate;yes;no;imperfective;no;yes;inch
+36;"<ES P; P>";1;animate;yes;no;imperfective;no;yes;al'l'ke
+36;"<ES P; P>";1;animate;yes;no;imperfective;no;yes;inch
+23;"<ES; P>";1;animate;yes;no;perfective punctive;no;no;npst
+24;"<ES; P>";1;animate;yes;no;perfective punctive;no;no;npst
+25;"<ES; P>";1;animate;yes;no;perfective punctive;no;no;npst
+27;"<ES P; P>";1;animate;yes;no;imperfective;no;yes;al'l'ke
+27;"<ES P; P>";1;animate;yes;no;imperfective;no;yes;inch
+28;"<S; S>";1;animate;yes;no;imperfective;no;no;al'l'ke
+28;"<S; S>";1;animate;yes;no;imperfective;no;no;inch
+35;"<P; P>";1;animate;yes;no;imperfective;no;yes;al'l'ke
+35;"<P; P>";1;animate;yes;no;imperfective;no;yes;inch
+2a;"<ES P; P>";3;animate;yes;no;imperfective;no;no;al'l'ke
+2b;"<ES P; P>";3;animate;yes;no;inchoative;no;no;inch
+47;"<EP; ->";3;inanimate;no;no;imperfective;yes;yes;npst
+47;"<EP; ->";3;inanimate;no;no;imperfective;yes;yes;inch
+108;"<P; P>";3;animate;yes;no;imperfective;no;no;al'l'ke
+108;"<P; P>";3;animate;yes;no;imperfective;no;no;inch
+53;"<ES; ->";3;inanimate;no;no;perfective punctive;no;no;npst
+56;"<S; S>";3;inanimate;no;no;imperfective;no;no;inch
+42;"<EP; ->";1;animate;yes;no;perfective punctive;no;no;npst
+44;"<ES; ->";3;animate;no;no;perfective punctive;no;no;npst
+91;"<S; S>";2;animate;no;no;imperfective;no;no;inch
+91;"<S; S>";2;animate;no;no;imperfective;no;no;al'l'ke
+41;"<ES P; P>";1;animate;yes;no;imperfective;no;no;al'l'ke
+41;"<ES P; P>";1;animate;yes;no;imperfective;no;no;inch
+92;"<ES P; P>";3;inanimate;no;no;perfective punctive;no;yes;npst
+92;"<ES P; P>";3;inanimate;no;no;inchoative;no;yes;
+61;"<ES; ->";3;animate;yes;no;perfective punctive;no;no;npst
+4;"<ES P; P>";1;animate;yes;no;imperfective;no;yes;al'l'ke
+4;"<ES P; P>";1;animate;yes;no;imperfective;no;yes;inch
+57;"<ES; ->";1;animate;yes;no;perfective punctive;no;no;npst
+45;"<ES; ->";3;animate;yes;no;perfective punctive;no;no;npst
+43a;"<ES; ->";1;animate;yes;no;perfective punctive;no;no;npst
+43b;"<ES; ->";1;animate;yes;no;perfective punctive;yes;yes;inch
+76;"<ES; ->";1;animate;no;no;perfective punctive;yes;yes;npst
+76;"<ES; ->";1;animate;no;no;perfective punctive;yes;yes;inch
+78;"<ES P; P>; <P; P>; <ES; ->";1;animate;yes;no;narrative progression;no;no;npst
+37;"<EP; ->";1;animate;yes;no;perfective punctive;no;yes;npst
+109;"<ES; ->";3;inanimate;no;no;perfective punctive;yes;yes;npst
+58;"<ES; ->";1;animate;yes;no;perfective punctive;no;no;npst
+7;"<ES P; P>";3;animate;yes;no;habitual;no;no;al'l'ke
+82;"<EP; ->";3;animate;yes;no;perfective punctive;no;no;npst
+106;"<P; P>";3;animate;yes;no;imperfective;no;no;al'l'ke
+39;"<ES; ->";1;animate;yes;no;perfective punctive;no;no;npst
+81;"<P; P>";3;inanimate;no;no;perfective punctive;no;no;npst
+93;"<S; S>";1;animate;no;yes;imperfective;no;no;al'l'ke
+103;"<S; S>";1;animate;no;no;imperfective;no;no;al'l'ke
+110;"<ES P; P>";1;animate;yes;no;perfective punctive;no;yes;npst
+114;"<P; P>";2;animate;yes;no;perfective punctive;no;no;al'l'ke
+115;"<ES P; P>";1;animate;yes;no;inchoative;no;no;inch
+116;"<ES P; P>";1;animate;yes;no;imperfective;no;no;al'l'ke
+117;"<ES P; P>";3;animate;yes;no;imperfective;no;no;al'l'ke
+117;"<ES P; P>";3;animate;yes;no;imperfective;no;no;inch
+118;"<ES P; P>";1;animate;yes;no;imperfective;no;no;al'l'ke
+120;-;3;inanimate;no;no;imperfective;no;no;al'l'ke
+123;"<ES P; P>";1;animate;yes;no;imperfective;no;no;al'l'ke
+124;"<ES P; P>";3;animate;yes;no;perfective punctive;no;no;inch
+124;"<ES P; P>";3;animate;yes;no;perfective punctive;no;no;al'l'ke
